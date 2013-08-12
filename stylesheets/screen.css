@@ -3,7 +3,7 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 .phone-sprite, .phone-android, .phone-ios {
-  background: url('/images/phone-s15b11c4752.png') no-repeat;
+  background: url('../images/phone-s15b11c4752.png') no-repeat;
 }
 
 .phone-android {
